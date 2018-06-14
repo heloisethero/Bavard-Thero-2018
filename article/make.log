@@ -209,6 +209,9 @@ LaTeX Font Warning: Font shape `EU1/FontAwesome(0)/bx/n' undefined
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  )
 (see the transcript file for additional information)
 Output written on Bavard-Thero-2018.pdf (5 pages).
@@ -221,8 +224,8 @@ INFO - Processing section 0
 INFO - Looking for bibtex format file 'bibliography.bib' for section 0
 INFO - Decoding LaTeX character macros into UTF-8
 INFO - Found BibTeX data source 'bibliography.bib'
-INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
 INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
 INFO - Sorting list 'nty/global' of type 'entry' with scheme 'nty' and locale 'en-US'
 INFO - No sort tailoring available for locale 'en-US'
 INFO - Writing 'Bavard-Thero-2018.bbl' with encoding 'UTF-8'

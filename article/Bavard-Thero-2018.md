@@ -11,21 +11,21 @@ Address:
 Contact:
   - sophie.bavard@gmail.com, thero.heloise@gmail.com
 Editor:
-  - Name Surname
+  - Olivia Guest
 Reviewer:
-  - Name Surname
-  - Name Surname
+  - Xavier Hinaut
+  - Benoît Girard
 Publication:
-  received:  Sep,  1, 2015
-  accepted:  Sep, 1, 2015
-  published: Sep, 1, 2015
-  volume:    "**1**"
-  issue:     "**1**"
-  date:      Sep 2015
-  number: 1
+  received:  Feb, 20, 2018
+  accepted:  Jun, 14, 2018
+  published: Jun, 14, 2018
+  volume:    "4"
+  issue:     "1"
+  date:      Jun 2018
+  number: 5
 Repository:
-  article:   "http://github.com/rescience/rescience-submission/article"
-  code:      "http://github.com/rescience/rescience-submission/code"
+  article:   "https://github.com/ReScience-Archives/Bavard-Thero-2018/tree/master/article"
+  code:      "https://github.com/ReScience-Archives/Bavard-Thero-2018/tree/master/code"
   data:      
   notebook:  
 Reproduction:
