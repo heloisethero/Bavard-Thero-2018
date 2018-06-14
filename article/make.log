@@ -177,10 +177,14 @@ x.tex)) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx)
-(./Bavard-Thero-2018.aux) (/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
+No file Bavard-Thero-2018.aux.
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
 (./Bavard-Thero-2018.out) (./Bavard-Thero-2018.out)
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 ABD: EveryShipout initializing macros ABD: EverySelectfont initializing macros
 *** you should *not* be loading the inputenc package
 *** XeTeX expects the source to be in UTF8 encoding
@@ -202,15 +206,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--211
 LaTeX Font Warning: Font shape `EU1/FontAwesome(0)/bx/n' undefined
 (Font)              using `EU1/FontAwesome(0)/m/n' instead on input line 211.
 
-<use  "rescience-logo.pdf" > [1] <use  "Figure1.pdf" > <use  "Figure2.png" >
-<use  "Figure3.png" > <use  "Figure4.png" > <use  "rescience-logo.pdf" >
-[2] <use  "rescience-logo.pdf" > [3] <use  "rescience-logo.pdf" > [4]
+<use  "rescience-logo.pdf" > [1]
+
+LaTeX Warning: Reference `fig:figure2' on page 2 undefined on input line 284.
+
+
+LaTeX Warning: Reference `fig:figure3' on page 2 undefined on input line 284.
+
+
+LaTeX Warning: Reference `fig:figure4' on page 2 undefined on input line 284.
+
+
+LaTeX Warning: Reference `fig:figure1' on page 2 undefined on input line 288.
+
+
+LaTeX Warning: Reference `fig:figure3' on page 2 undefined on input line 306.
+
+
+LaTeX Warning: Reference `fig:figure4' on page 2 undefined on input line 306.
+
+
+LaTeX Warning: Reference `fig:figure1' on page 2 undefined on input line 308.
+
+
+LaTeX Warning: Reference `fig:figure2' on page 2 undefined on input line 308.
+
+
+LaTeX Warning: Reference `fig:figure2' on page 2 undefined on input line 334.
+
+
+LaTeX Warning: Reference `fig:figure3' on page 2 undefined on input line 334.
+
+
+LaTeX Warning: Reference `fig:figure4' on page 2 undefined on input line 334.
+
+
+LaTeX Warning: Reference `fig:figure1' on page 2 undefined on input line 335.
+
+
+LaTeX Warning: Reference `fig:figure4' on page 2 undefined on input line 339.
+
+<use  "Figure1.pdf" > <use  "Figure2.png" > <use  "Figure3.png" >
+<use  "Figure4.png" > <use  "rescience-logo.pdf" > [2]
+<use  "rescience-logo.pdf" > [3] <use  "rescience-logo.pdf" > [4]
 <use  "rescience-logo.pdf" > [5] (./Bavard-Thero-2018.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Bavard-Thero-2018
+(biblatex)                and rerun LaTeX afterwards.
 
  )
 (see the transcript file for additional information)
@@ -224,8 +276,8 @@ INFO - Processing section 0
 INFO - Looking for bibtex format file 'bibliography.bib' for section 0
 INFO - Decoding LaTeX character macros into UTF-8
 INFO - Found BibTeX data source 'bibliography.bib'
-INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
 INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
 INFO - Sorting list 'nty/global' of type 'entry' with scheme 'nty' and locale 'en-US'
 INFO - No sort tailoring available for locale 'en-US'
 INFO - Writing 'Bavard-Thero-2018.bbl' with encoding 'UTF-8'
